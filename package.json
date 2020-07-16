@@ -1,10 +1,14 @@
 {
   "name": "clusterify-sh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clusterify all your apps",
   "main": "clusterify.js",
   "scripts": {
     "test": "node clustertest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sharkbyteprojects/Clusterify-sh.git"
   },
   "keywords": [
     "cluster",
