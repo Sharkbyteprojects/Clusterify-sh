@@ -1,0 +1,15 @@
+{
+  "name": "clusterify-sh",
+  "version": "1.0.0",
+  "description": "Clusterify all your apps",
+  "main": "clusterify.js",
+  "scripts": {
+    "test": "node clustertest.js"
+  },
+  "keywords": [
+    "cluster",
+    "ease"
+  ],
+  "author": "Sharkbyteprojects",
+  "license": "ISC"
+}
